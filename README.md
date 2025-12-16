@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Junior Developer · Turning ideas into code
+  Junior Developer · Unity / VR / Game Dev
 </h3>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=650&height=100&
-    lines=Junior+Developer;Learning+by+building;Code,+debug,+repeat;From+ideas+to+real+projects">
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=700&height=100&
+    lines=Junior+Developer;Unity+%2F+VR+%2F+Game+Development;Learning+by+building;Code,+test,+iterate;Turning+ideas+into+interactive+experiences">
 </p>
 
 ---
@@ -23,11 +23,11 @@
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250"/>
 
-- 🚀 Junior Developer focused on **real projects and continuous learning**
-- 🧠 I enjoy understanding *how things work* and then improving them
-- 🎮 Interested in **interactive development, Unity and software tools**
-- 🛠️ Comfortable experimenting, failing and iterating
-- 💼 Open to **junior roles, internships and trainee opportunities**
+- 🎮 Junior Developer focused on **Unity, VR and Game Development**
+- 🚀 Learning by building **real projects and prototypes**
+- 🧠 Curious mindset: I like to understand systems and mechanics
+- 🔧 Comfortable debugging, iterating and improving
+- 💼 Open to **junior roles, internships and trainee positions**
 
 <br>
 
@@ -49,9 +49,11 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧩 Frameworks & Engines
+### 🎮 Game Dev & XR
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VR-5C2D91?style=for-the-badge&logo=oculus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game%20Development-1f2937?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Tools & Workflow
@@ -74,11 +76,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api?username=Juanjorbo&show_icons=true&count_private=true&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&bg_color=0D1117"
     width="420"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanjorbo&layout=compact&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117"
     width="320"
   />
 </p>
@@ -88,11 +90,11 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <b>Junior Developer · Barcelona · Always learning</b>
+  <b>Junior Developer · Unity / VR / Game Dev</b>
 </p>
 
 <p align="center">
-  💡 “Every project is a chance to get better than yesterday.”
+  💡 “Building interactive experiences, one project at a time.”
 </p>
 
 ---
@@ -100,6 +102,6 @@
 <div align="center">
 
 ### Thanks for stopping by 👋  
-⭐ Feel free to explore my repositories
+⭐ Feel free to explore my projects and experiments
 
 </div>
