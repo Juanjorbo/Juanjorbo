@@ -4,18 +4,18 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer & IT
+  Software Engineer · Full Stack Developer
 </h3>
 
 <p align="center">
-  📍 Barcelona — Arenys de Mar  
-  💡 Passionate about building, learning, and experimenting
+  📍 Barcelona — Arenys de Mar <br/>
+  💡 I design and build software with a product-oriented mindset
 </p>
 
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=22&center=true&vCenter=true&width=750&height=100&
-    lines=Junior+Developer;Building+software+that+matters;Learning+by+doing;Exploring+interactive+tech+and+VR">
+    lines=Software+Engineer;Full+Stack+Developer;Building+scalable+and+maintainable+systems;Learning+by+building+real+products">
 </p>
 
 ---
@@ -24,24 +24,27 @@
 
 <img align="right" src="https://media.giphy.com/media/3ohc1f0fQovk6VQvFi/giphy.gif" width="250"/>
 
-- 🧠 Curious and hands-on: I enjoy understanding and improving systems  
-- 🔧 Comfortable debugging, iterating, and solving real-world problems  
+I’m a **Software Engineer focused on Full-Stack development**, with a strong interest in building systems that are clear, maintainable, and scalable.
+
+- 🧠 I think about **architecture, data flow, and long-term maintainability**
+- 🔧 Comfortable working across **backend and frontend**
+- 🚀 I enjoy improving existing systems as much as building new ones
+- 📦 I care about code quality, consistency, and real-world usage
+
+I like to understand the full picture of a product and make technical decisions that support its growth over time.
 
 ---
 
 ## 🏆 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Juanjorbo/Unity-VR-Prototype">
-    <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" alt="Unity VR Prototype"/>
-  </a>
   <a href="https://github.com/Juanjorbo/WebPortfolio">
     <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Web Portfolio"/>
   </a>
 </p>
 
 <p align="center">
-  💡 Click on images to explore repositories
+  💡 Click on the image to explore the repository
 </p>
 
 ---
@@ -50,9 +53,9 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -62,11 +65,11 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🎮 Unity / VR / Game Dev
+### ⚙️ Backend & Full-Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VR-5C2D91?style=for-the-badge&logo=oculus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Game%20Dev-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Auth%20%26%20Security-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-1f2937?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Tools & Workflow
@@ -97,18 +100,22 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  💡 “Building software, learning fast, and exploring interactive tech”
+  Interested in full-stack roles, backend-heavy positions, and real product teams.
 </p>
 
 <p align="center">
+  <a href="https://portfolio-juanjorbo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-juanjorbo-0D1117?style=for-the-badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/juanjorincon/">
-  <img src="https://img.shields.io/badge/LinkedIn-Juanjorincon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Juanjorincon-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
 
 ### Thanks for visiting 👋  
-⭐ Explore my projects and experiments
+⭐ Feel free to explore my projects
 
 </div>
+
