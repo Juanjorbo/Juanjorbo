@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Junior Developer | Software | Unity / VR / Game Dev
+  Software Engineer & IT
 </h3>
 
 <p align="center">
@@ -24,11 +24,8 @@
 
 <img align="right" src="https://media.giphy.com/media/3ohc1f0fQovk6VQvFi/giphy.gif" width="250"/>
 
-- 🚀 Junior Developer focused on **software projects and learning fast**  
-- 🎮 Exploring **Unity, VR, Game Dev** as extra experience  
 - 🧠 Curious and hands-on: I enjoy understanding and improving systems  
 - 🔧 Comfortable debugging, iterating, and solving real-world problems  
-- 💼 Open to **junior roles, internships, and collaborative projects**
 
 ---
 
