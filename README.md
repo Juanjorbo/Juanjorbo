@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanjorbo&show_icons=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanjorbo&show_icons=true&cache_seconds=1800" />
 </p>
 
 ---
