@@ -3,12 +3,8 @@
 </h1>
 
 <p align="center">
-  <code>{ Software Engineer · Full Stack Developer }</code>
-</p>
-
-<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Software+Engineer;Full+Stack+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Software+Engineer" 
     alt="Typing SVG" 
   />
 </p>
