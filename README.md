@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile.  
-  Here you'll find projects focused on full-stack development, backend systems, and clean software design.
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Software+Engineer;Full+Stack+Developer" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
